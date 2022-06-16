@@ -1,3 +1,3 @@
 # SQL-Flight-Booking
 
-It is an assignment project
+A basic Flight Booking Management system
