@@ -14,5 +14,5 @@ A basic Flight Booking Management system
   ### 1) Entity Relationship diagrams
   ### 2) UML (Unified Modelling Language)
   Here I used ER diagrams to visually represent the business problem.
-   ![Conceptual model](https://user-images.githubusercontent.com/41124746/174048117-ca018153-1df8-4fa8-9bf5-b447288cdd80.png)
+![Conceptual model](https://user-images.githubusercontent.com/41124746/174048117-ca018153-1df8-4fa8-9bf5-b447288cdd80.png)
   
