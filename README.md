@@ -28,3 +28,6 @@ Physical Model of Flight-Booking system:
 
 ![Physical_Model](https://user-images.githubusercontent.com/41124746/174050415-4bf61fa8-3dd4-4019-926e-9eed9e8d698b.png)
 
+Now this physical model can be forward engineered to create the database.
+
+Credits: Mosh Hamedani(https://codewithmosh.com/p/complete-sql-mastery)
