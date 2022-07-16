@@ -1,4 +1,4 @@
-# The SQL-journey
+# The SQL- Flight booking management system
 
 A basic Flight Booking Management system
 
